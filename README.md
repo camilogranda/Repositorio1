@@ -8,6 +8,7 @@ Autor: Camilo Granda Gómez
 Documentación del desarrollador 2:
 
 Tareas del desarrollador 2:
+
 =======
 # Documentación 1 (Dev1)
 Documentación del desarrollador 1:
