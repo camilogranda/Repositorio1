@@ -15,3 +15,5 @@ Documentación del desarrollador 1:
 
 Tareas del desarrollador 1:
 >>>>>>> main
+
+Cambio en README
