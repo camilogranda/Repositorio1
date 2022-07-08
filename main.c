@@ -9,6 +9,7 @@ int main (void)
     //git commit -am "mensaje"
     //cd .. -> devolverse de carpeta
     //git checkout HEAD -- <archivo a reiniciar al último commit>
+    //git checkout HEAD~1 -> ir un commit atrás
     //git add <archivo a agregar>
     //git log -> historia de commits
     //git log --oneline -> historia reducida de commits
